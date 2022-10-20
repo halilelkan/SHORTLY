@@ -1,5 +1,9 @@
 
 
+
+
+
+
 ### Hi 👋, I'm Halil İbrahim Elkan  
 <div align="center">
 <img src="https://user-images.githubusercontent.com/110124745/197053684-d312f86b-6fd8-4419-8941-1b87024ab366.jpeg" align="center" height="250" width="250" />
@@ -55,10 +59,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/halilelkan" target="_blank">
+<a href="https://github.com/halilelkan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/halil-ibrahim-elkan-194876143/" target="_blank">
+<a href="https://linkedin.com/in/halilibrahimelkan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -77,7 +81,7 @@
 **Application Screenshots**  
   
 
-<img src="https://user-images.githubusercontent.com/110124745/197053684-d312f86b-6fd8-4419-8941-1b87024ab366.jpeg" align="left" height="300" width="300" />  
+<img src="https://user-images.githubusercontent.com/110124745/197064642-9af85dd7-4dd2-496c-83c1-28da393f5d9a.png" align="left" height="300" width=“150” />  
   
 
 <br/>  
@@ -92,6 +96,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
