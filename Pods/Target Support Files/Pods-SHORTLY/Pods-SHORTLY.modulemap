@@ -1,0 +1,6 @@
+framework module Pods_SHORTLY {
+  umbrella header "Pods-SHORTLY-umbrella.h"
+
+  export *
+  module * { export * }
+}
